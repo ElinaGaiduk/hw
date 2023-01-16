@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
 
-# -- Sheet --
 
 import numpy as np
 import pandas as pd
